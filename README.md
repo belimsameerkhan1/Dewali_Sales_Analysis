@@ -1,5 +1,3 @@
-
-Exploratory_Data_Analysis(EDA)('Diwali_Sales_Analysis')
 # Diwali Sales Analysis
 
 ## Project Overview
